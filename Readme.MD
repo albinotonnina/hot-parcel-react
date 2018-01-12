@@ -1,5 +1,7 @@
 # React Parcel Example with hot reload
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/albinotonnina/hot-parcel-react.svg)](https://greenkeeper.io/)
+
 Example App bundled with [Parcel Bundler](https://parceljs.org)
 
 ## Getting started
